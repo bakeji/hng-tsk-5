@@ -1,0 +1,26 @@
+.my-div{
+    display: flex;
+  padding: 12px 40px 12px 16px;
+  background-color: #000000;
+  justify-content: center;
+  position: fixed;
+  width: 551px;
+  height: 86px;
+  border-radius: 60px;
+  bottom: 0;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  }
+  .my-div button{
+    width: 44px;
+    height: 44px;
+    justify-content: center;
+    background-color: #ffffff;
+    border-radius: 50%;
+  }
+  hr{
+    border: 1px solid #ffffff;
+    height: 60%;
+  }
